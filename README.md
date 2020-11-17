@@ -2,7 +2,7 @@
 
 Packages required:
 
-pip install SpeechRecognition;
+pip install SpeechRecognition;\n
 pip install ecapture;
 pip install wikipedia;
 pip install pyttsx3;
