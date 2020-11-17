@@ -2,20 +2,20 @@
 
 Packages required:
 
-pip install SpeechRecognition;
+pip install SpeechRecognition
 
 
 
 
-pip install ecapture;
+pip install ecapture
 
 
 
 
-pip install wikipedia;
+pip install wikipedia
 
 
 
 
-pip install pyttsx3;
+pip install pyttsx3
 
